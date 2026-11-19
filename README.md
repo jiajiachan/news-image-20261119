@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/jiajiachan/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/jiajiachan/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 # Sum up 19 November's world news in one image
 
 Entry for make.fun bounty `news-image-20261119`.
@@ -20,3 +24,5 @@ The image sums up Thursday 19 November 2026:
 No network, no randomness: two runs write identical bytes.
 
 License: MIT.
+
+Built for the make.fun bounty: https://make.fun/bounty/news-image-20261119
